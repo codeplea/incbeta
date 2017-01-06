@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/codeplea/incbeta.svg?branch=master)](https://travis-ci.org/codeplea/incbeta)
 
+<img alt="Genann logo" src="https://codeplea.com/public/content/incomplete-beta-function.png" align="right" />
+
 #Incomplete Beta Function
 
 `incbeta.c` contains only one function. It is the regularized incomplete beta
