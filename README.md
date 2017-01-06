@@ -8,6 +8,8 @@ function. It is released under the zlib license.
 You'll need a compiler with `lgamma` to compile it. Any C99 complier should
 work.
 
+[More info here.](https://codeplea.com/incomplete-beta-function-c)
+
 
 ##Example
 
@@ -20,6 +22,8 @@ work.
 ##How does it work?
 
 This solves the continued fraction using Lentz's algorithm.
+
+I wrote up an article about how it works [here](https://codeplea.com/incomplete-beta-function-c).
 
 
 ##Why would I use this?
