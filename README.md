@@ -2,7 +2,7 @@
 
 <img alt="Genann logo" src="https://codeplea.com/public/content/incomplete-beta-function.png" align="right" />
 
-#Incomplete Beta Function
+# Incomplete Beta Function
 
 `incbeta.c` contains only one function. It is the regularized incomplete beta
 function. It is released under the zlib license.
@@ -13,7 +13,7 @@ work.
 [More info here.](https://codeplea.com/incomplete-beta-function-c)
 
 
-##Example
+## Example
 
 ```C
     /* Call it with a, b, x. */
@@ -21,14 +21,14 @@ work.
 ```
 
 
-##How does it work?
+## How does it work?
 
 This solves the continued fraction using Lentz's algorithm.
 
 I wrote up an article about how it works [here](https://codeplea.com/incomplete-beta-function-c).
 
 
-##Why would I use this?
+## Why would I use this?
 
 Maybe you're trying to do a statistics test, and you don't want to pull in a
 huge dependency like the [GNU Scientific
@@ -42,7 +42,7 @@ definitely *not* open-source.
 So use this instead. It works, it's very small and easy, and it's released
 under the zlib license.
 
-##What can I do with it?
+## What can I do with it?
 
 Well, it's used as a building block in a lot of statistics functions.
 
