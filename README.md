@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/codeplea/incbeta.svg?branch=master)](https://travis-ci.org/codeplea/incbeta)
+[![Build Status](https://travis-ci.com/codeplea/incbeta.svg?branch=master)](https://travis-ci.com/codeplea/incbeta)
 
 <img alt="Genann logo" src="https://codeplea.com/public/content/incomplete-beta-function.png" align="right" />
 
